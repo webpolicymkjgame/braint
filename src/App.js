@@ -41,7 +41,7 @@ function Header() {
 function HomePage() {
   const apps = [
     {
-      name: 'All Documents',
+      name: 'File Recovery: Restore Photos',
       image: bannerApp,
       link: 'https://play.google.com/store/apps/details?id='
     }
